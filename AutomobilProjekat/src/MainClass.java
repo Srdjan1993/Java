@@ -16,7 +16,7 @@ public class MainClass {
 		
 		a1.ofarbaj("crvena");
 		
-		a2.povecajSnaguMotora(50);
+		a2.povecajSnaguMotora(50); //snaga motora
 		
 		a3.registrujKola("NS-7777-OS");
 		
